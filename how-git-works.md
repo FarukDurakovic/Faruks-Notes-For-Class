@@ -8,3 +8,6 @@ Git also happens to be very security heavy in the sense that it claims that all 
 
 Git is also apparently very flexible, as the tutorial says to me! It is able to support various kinds of development workflows, work with both small and large projects, and its compatible with many exisiting systems and protocols.
 
+One more thing that I have seen in git, as well as what it mentions itself, is that it is a little bit difficult to learn. It uses some interesting terminology that I have never seen used before, with examples being Repositories, Pushing, Pulling, Origin, Master, Branches/Tags. It is also a massive pain to have to download all the new programs we need, like Docker and the Git Shell, and having to get a bash shell working... It's all very painful! 
+
+Well regardless of how "Frustrating" it will be, I do want to learn more about Git and maybe start a career somewhere in software development!
